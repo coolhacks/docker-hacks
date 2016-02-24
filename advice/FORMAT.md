@@ -1,8 +1,14 @@
+*Please save file in .md format with your name as the name of the file.Example: Ramit Surana will be saved as ramit_surana.md.*
+
 ## Name:
 
 Your name here.
 
-## Advice:
+## Job:
+
+Your Job at your current company
+
+## Tips:
 
 * _Your text here_
 
